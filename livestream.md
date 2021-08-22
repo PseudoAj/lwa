@@ -1,7 +1,6 @@
 ---
-layout: page
-title: "Live Stream"
+layout: redirected
+sitemap: false
 permalink: /livestream/
+redirect_to:  https://youtu.be/Ygn0N1Evj0M
 ---
-
-# Stay tuned ...
