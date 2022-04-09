@@ -7,7 +7,7 @@ title: Lalitha Weds Ajay
 
 ### Invitation
 
-<iframe width="600" height="450" src="https://www.youtube.com/embed/FDPC6TrXuFk?playlist=FDPC6TrXuFk&loop=1">
+<iframe width="600" height="450" src="https://www.youtube.com/embed/FDPC6TrXuFk?playlist=FDPC6TrXuFk&autoplay=1&loop=1">
 </iframe>
 
 ### Livestream
