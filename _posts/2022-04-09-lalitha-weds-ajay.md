@@ -9,7 +9,6 @@ title: Lalitha Weds Ajay
 ### Invitation
 
 
-
 ### Date and Time
 
 ### Address
