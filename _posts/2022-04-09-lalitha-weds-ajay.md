@@ -10,9 +10,9 @@ title: Lalitha Weds Ajay
 <iframe width="600" height="450" src="https://www.youtube.com/embed/FDPC6TrXuFk?playlist=FDPC6TrXuFk&autoplay=1&loop=1">
 </iframe>
 
-### Livestream
+### [Livestream](https://globallivetelecast.com/lalithawedsajay)
 
-[https://globallivetelecast.com/lalithawedsajay](https://globallivetelecast.com/lalithawedsajay)
+[![Click here to watch live](../public/watch-live.jpg)](https://globallivetelecast.com/lalithawedsajay)
 
 ### 📍 Address
 
