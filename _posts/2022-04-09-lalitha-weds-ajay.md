@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lalitha Weds Ajayv
+title: Lalitha Weds Ajay
 ---
 
 
