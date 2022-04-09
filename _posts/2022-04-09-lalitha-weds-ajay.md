@@ -3,7 +3,7 @@ layout: post
 title: Lalitha Weds Ajay
 ---
 
-## Wedding on April 16 2022 at 11.26 AM in Hyderabad
+## Wedding on April 16 2022 11.26 AM at Goteti Kalyana Vedika in Hyderabad
 
 ### Invitation
 
@@ -20,16 +20,11 @@ title: Lalitha Weds Ajay
 
 ### Registry
 
-<iframe width="600" height="450" src="https://www.amazon.com/wedding/share/lalitha-weds-ajay
-">
-</iframe>
+[https://www.amazon.com/wedding/share/lalitha-weds-ajay](https://www.amazon.com/wedding/share/lalitha-weds-ajay)
 
-
-## Reception on April 18 2022 at 06.30 PM in Vijayawada
+## Reception on April 18 2022 06.30 PM at Hotel Minerva Grand in Vijayawada
 
 ### Invitation
-
-
 
 ### Livestream
 
