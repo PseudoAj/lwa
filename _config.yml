@@ -16,7 +16,7 @@ author:
   name:           'Ajay Kavuri'
   url:            https://pseudoaj.com
 
-paginate:         1
+paginate:         5
 
 # Custom vars
 version:          1.0.0
