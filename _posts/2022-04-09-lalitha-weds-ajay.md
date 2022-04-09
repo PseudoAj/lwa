@@ -20,7 +20,7 @@ title: Lalitha Weds Ajay
 
 ### Registry
 
-[https://www.amazon.com/wedding/share/lalitha-weds-ajay](https://www.amazon.com/wedding/share/lalitha-weds-ajay)
+[![Click here for wedding registry](../public/wedding-registry.jpg.jpg)](https://www.amazon.com/wedding/share/lalitha-weds-ajay))
 
 ## 👫 Reception on April 18 2022 06.30 PM at Hotel Minerva Grand in Vijayawada
 
